@@ -1,0 +1,27 @@
+[submodule "CPP00"]
+	path = CPP00
+	url = git@github.com:SamanthaLHC/CPP00.git
+[submodule "CPP01"]
+	path = CPP01
+	url = git@github.com:SamanthaLHC/CPP01.git
+[submodule "CPP02"]
+	path = CPP02
+	url = git@github.com:SamanthaLHC/CPP02.git
+[submodule "CPP03"]
+	path = CPP03
+	url = git@github.com:SamanthaLHC/CPP03.git
+[submodule "CPP04"]
+	path = CPP04
+	url = git@github.com:SamanthaLHC/CPP04.git
+[submodule "CPP05"]
+	path = CPP05
+	url = git@github.com:SamanthaLHC/CPP05.git
+[submodule "CPP06"]
+	path = CPP06
+	url = git@github.com:SamanthaLHC/CPP06.git
+[submodule "CPP07"]
+	path = CPP07
+	url = git@github.com:SamanthaLHC/CPP07.git
+[submodule "CPP08"]
+	path = CPP08
+	url = git@github.com:SamanthaLHC/CPP08.git
